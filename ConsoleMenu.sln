@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30907.101
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPlusPlus", "CPlusPlus\ConsoleMenu.vcxproj", "{40373BE9-A7A3-43A7-ADAA-EFD3184490DD}"
 EndProject
@@ -18,6 +18,7 @@ Global
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{40373BE9-A7A3-43A7-ADAA-EFD3184490DD}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{40373BE9-A7A3-43A7-ADAA-EFD3184490DD}.Debug|Any CPU.Build.0 = Debug|Win32
 		{40373BE9-A7A3-43A7-ADAA-EFD3184490DD}.Debug|x64.ActiveCfg = Debug|x64
 		{40373BE9-A7A3-43A7-ADAA-EFD3184490DD}.Debug|x64.Build.0 = Debug|x64
 		{40373BE9-A7A3-43A7-ADAA-EFD3184490DD}.Debug|x86.ActiveCfg = Debug|Win32
